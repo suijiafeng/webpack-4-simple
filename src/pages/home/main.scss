@@ -1,0 +1,11 @@
+body {
+    line-height: 2;
+    background-color: yellow;
+    color:rebeccapurple;
+    display: flex;
+    justify-content: space-around;
+    h2{
+        color:red;
+        transform: rotateX(18deg);
+    }
+}
